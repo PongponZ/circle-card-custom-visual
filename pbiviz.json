@@ -1,0 +1,24 @@
+{
+    "visual": {
+        "name": "circleCard",
+        "displayName": "Circle Card",
+        "guid": "test1099FC397FB94844A6883CE50EA96D8B",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "This custom virtual was created for leaning, following the tutorial. ",
+        "supportUrl": "https://www.nostramap.com/",
+        "gitHubUrl": "https://github.com/PongponZ"
+    },
+    "apiVersion": "3.8.0",
+    "author": {
+        "name": "Pongpon Sinlapa",
+        "email": "mr.pongpon.sinlapa.m.m@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
